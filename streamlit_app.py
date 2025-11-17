@@ -77,7 +77,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]:{"texts":["아일릿은 인기가 많은 신인 아이돌이야"],
                "videos":["https://youtu.be/SvAtijkbp4w?si=slRe4jtIGPLL1xnV"]},
-    labels[1]:{"texts":["에스파는 가장 남자들한테 인기가 많은 그룹이야"]},
+    labels[1]:{"texts":["에스파는 가장 남자들한테 인기가 많은 그룹이야"],
+               "videos":["https://youtu.be/JvABRVxCoJU?si=HF1vL47-KRt4WRXD"]},
     labels[2]:{"texts":["하츠투하츠는 최근 유입된 팬이 많아"]},
 }
 
