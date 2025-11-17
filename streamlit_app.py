@@ -79,8 +79,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
                "videos":["https://youtu.be/SvAtijkbp4w?si=slRe4jtIGPLL1xnV"]},
     labels[1]:{"texts":["에스파는 가장 남자들한테 인기가 많은 그룹이야"],
                "videos":["https://youtu.be/JvABRVxCoJU?si=HF1vL47-KRt4WRXD"]},
-    labels[2]:{"texts":["하츠투하츠는 최근 유입된 팬이 많아"]
-               "videos":["https://youtu.be/FGBwQeD2FpY?si=g8iMbVCQh_gM5WfI"]},
+    labels[2]:{"texts":["하츠투하츠는 최근 유입된 팬이 많아"],
+               "videos":["https://youtu.be/FGBwQeD2FpY?si=g8iMbVCQh_gM5WfI"]
+              "images":["https://www.google.com/imgres?q=%ED%95%98%EC%B8%A0%ED%88%AC%ED%95%98%EC%B8%A0&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3621822004526967264&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fp%2FDJDS-yDheng%2F&docid=P51JtqySscdqfM&tbnid=sr2cCxc_iBCwmM&vet=12ahUKEwi-4fXom_iQAxVvha8BHQzNIPMQM3oECCAQAA..i&w=1171&h=1462&hcb=2&ved=2ahUKEwi-4fXom_iQAxVvha8BHQzNIPMQM3oECCAQAA"]},
 }
 
 # ======================
